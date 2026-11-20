@@ -35,5 +35,42 @@
       }
     ],
     "timestamp": "2026-11-20T07:10:01.796642+00:00"
+  },
+  {
+    "video_file": "CelloSpheric_15min_20261120_165504.mp4",
+    "youtube_id": "wb73ezLNWCo",
+    "youtube_url": "https://youtu.be/wb73ezLNWCo",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Cello & Piano | Meditation in the Quiet Harbor · Original Cinematic Cello",
+    "piece_title": "Meditation in the Quiet Harbor",
+    "seed": 1737210149,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Drift"
+      },
+      {
+        "time": "02:55",
+        "title": "II. Awakening"
+      },
+      {
+        "time": "05:33",
+        "title": "III. Embers"
+      },
+      {
+        "time": "07:59",
+        "title": "IV. Ascent"
+      },
+      {
+        "time": "10:45",
+        "title": "V. Snowfall"
+      },
+      {
+        "time": "12:54",
+        "title": "VI. Horizon"
+      }
+    ],
+    "timestamp": "2026-11-20T17:13:53.907870+00:00"
   }
 ]
