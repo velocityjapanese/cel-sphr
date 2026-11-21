@@ -72,5 +72,42 @@
       }
     ],
     "timestamp": "2026-11-20T17:13:53.907870+00:00"
+  },
+  {
+    "video_file": "CelloSpheric_15min_20261121_160106.mp4",
+    "youtube_id": "3G3iCMWifgE",
+    "youtube_url": "https://youtu.be/3G3iCMWifgE",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Cello & Piano | Solace upon the Fallen Snow · Original Cinematic Cello (1080p HD)",
+    "piece_title": "Solace upon the Fallen Snow",
+    "seed": 349659268,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Horizon"
+      },
+      {
+        "time": "02:44",
+        "title": "II. Embers"
+      },
+      {
+        "time": "05:24",
+        "title": "III. Awakening"
+      },
+      {
+        "time": "07:52",
+        "title": "IV. Tide"
+      },
+      {
+        "time": "10:40",
+        "title": "V. Dusk"
+      },
+      {
+        "time": "12:51",
+        "title": "VI. Cascade"
+      }
+    ],
+    "timestamp": "2026-11-21T16:23:22.664910+00:00"
   }
 ]
