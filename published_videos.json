@@ -220,5 +220,42 @@
       }
     ],
     "timestamp": "2026-11-23T20:16:30.990097+00:00"
+  },
+  {
+    "video_file": "CelloSpheric_15min_20261124_192732.mp4",
+    "youtube_id": "pEr4OKdf9vA",
+    "youtube_url": "https://youtu.be/pEr4OKdf9vA",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Cello & Piano | Hymn in the Winter Lake · Original Cinematic (1080p HD)",
+    "piece_title": "Hymn in the Winter Lake",
+    "seed": 429499949,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Reverie"
+      },
+      {
+        "time": "02:44",
+        "title": "II. Embers"
+      },
+      {
+        "time": "05:24",
+        "title": "III. Tide"
+      },
+      {
+        "time": "07:52",
+        "title": "IV. Drift"
+      },
+      {
+        "time": "10:40",
+        "title": "V. Ascent"
+      },
+      {
+        "time": "12:51",
+        "title": "VI. Radiance"
+      }
+    ],
+    "timestamp": "2026-11-24T19:38:56.224837+00:00"
   }
 ]
