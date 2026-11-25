@@ -257,5 +257,42 @@
       }
     ],
     "timestamp": "2026-11-24T19:38:56.224837+00:00"
+  },
+  {
+    "video_file": "CelloSpheric_15min_20261125_183440.mp4",
+    "youtube_id": "T0Y_Nb83Gn0",
+    "youtube_url": "https://youtu.be/T0Y_Nb83Gn0",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Cello & Piano | Serenade upon the Silver Rain · Original Cinematic Cello",
+    "piece_title": "Serenade upon the Silver Rain",
+    "seed": 20092012,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Horizon"
+      },
+      {
+        "time": "02:53",
+        "title": "II. Stillness"
+      },
+      {
+        "time": "05:29",
+        "title": "III. Awakening"
+      },
+      {
+        "time": "07:52",
+        "title": "IV. Dusk"
+      },
+      {
+        "time": "10:49",
+        "title": "V. Cascade"
+      },
+      {
+        "time": "12:56",
+        "title": "VI. Radiance"
+      }
+    ],
+    "timestamp": "2026-11-25T18:53:12.825749+00:00"
   }
 ]
