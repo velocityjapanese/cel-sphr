@@ -294,5 +294,42 @@
       }
     ],
     "timestamp": "2026-11-25T18:53:12.825749+00:00"
+  },
+  {
+    "video_file": "CelloSpheric_15min_20261126_181841.mp4",
+    "youtube_id": "FtYecDIME-k",
+    "youtube_url": "https://youtu.be/FtYecDIME-k",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Cello & Piano | Etude upon the Velvet Rain · Original Cinematic (1080p HD)",
+    "piece_title": "Etude upon the Velvet Rain",
+    "seed": 1803834628,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Awakening"
+      },
+      {
+        "time": "02:53",
+        "title": "II. Cascade"
+      },
+      {
+        "time": "05:40",
+        "title": "III. Ascent"
+      },
+      {
+        "time": "07:57",
+        "title": "IV. Drift"
+      },
+      {
+        "time": "10:55",
+        "title": "V. Radiance"
+      },
+      {
+        "time": "12:53",
+        "title": "VI. Tide"
+      }
+    ],
+    "timestamp": "2026-11-26T18:38:32.479522+00:00"
   }
 ]
