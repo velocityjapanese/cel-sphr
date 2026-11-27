@@ -331,5 +331,42 @@
       }
     ],
     "timestamp": "2026-11-26T18:38:32.479522+00:00"
+  },
+  {
+    "video_file": "CelloSpheric_15min_20261127_180009.mp4",
+    "youtube_id": "iAhp5E9smsQ",
+    "youtube_url": "https://youtu.be/iAhp5E9smsQ",
+    "facebook_id": null,
+    "facebook_url": null,
+    "title": "15 Min Relaxing Cello & Piano | Meditation upon the Northern Lights · Original Cinematic (1080p HD)",
+    "piece_title": "Meditation upon the Northern Lights",
+    "seed": 348538958,
+    "chapters": [
+      {
+        "time": "00:00",
+        "title": "I. Ascent"
+      },
+      {
+        "time": "02:46",
+        "title": "II. Embers"
+      },
+      {
+        "time": "05:29",
+        "title": "III. Stillness"
+      },
+      {
+        "time": "07:59",
+        "title": "IV. Horizon"
+      },
+      {
+        "time": "10:50",
+        "title": "V. Radiance"
+      },
+      {
+        "time": "13:03",
+        "title": "VI. Reverie"
+      }
+    ],
+    "timestamp": "2026-11-27T18:19:15.814086+00:00"
   }
 ]
